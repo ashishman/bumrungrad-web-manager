@@ -1,0 +1,1 @@
+# bumrungrad-web-manager
