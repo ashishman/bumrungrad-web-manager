@@ -1,0 +1,22 @@
+.info-wrapper{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+.main{
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    height: auto;
+    width: 95vw;
+    padding: 20px;
+}
+.heading-text{
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+@media only screen and (max-width: 480px) {
+    .main {
+      width: 100vw;
+    }
+  }

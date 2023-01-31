@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aed2bbea.css",
+    "main.js": "/static/js/main.a1df610e.js",
+    "static/js/787.66e14840.chunk.js": "/static/js/787.66e14840.chunk.js",
+    "static/media/Bumrungrad_Clinic.jpg": "/static/media/Bumrungrad_Clinic.0f88ee781aef6289b4b8.jpg",
+    "static/media/ceo.jpg": "/static/media/ceo.b4f5216c629acc480ec0.jpg",
+    "static/media/about-background.jpg": "/static/media/about-background.d4769305a45993b14f37.jpg",
+    "static/media/Bumrungrad_Building.jpg": "/static/media/Bumrungrad_Building.98adce47a20d64d66761.jpg",
+    "static/media/sitelogo.png": "/static/media/sitelogo.054f71b5e2d2c5382540.png",
+    "static/media/download.svg": "/static/media/download.4052d404064627f5a57629d5a851f20e.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.aed2bbea.css.map": "/static/css/main.aed2bbea.css.map",
+    "main.a1df610e.js.map": "/static/js/main.a1df610e.js.map",
+    "787.66e14840.chunk.js.map": "/static/js/787.66e14840.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aed2bbea.css",
+    "static/js/main.a1df610e.js"
+  ]
+}
